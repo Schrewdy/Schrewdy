@@ -1,0 +1,16 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://testAlas.gd" type="Script" id=1]
+[ext_resource path="res://atlas/UnoAtlas.png" type="Texture" id=2]
+
+[node name="Sprite" type="Sprite"]
+position = Vector2( 473.73, 289.782 )
+texture = ExtResource( 2 )
+region_enabled = true
+region_rect = Rect2( 0, 0, 173, 257 )
+script = ExtResource( 1 )
+
+[node name="Timer" type="Timer" parent="."]
+wait_time = 0.5
+
+[connection signal="timeout" from="Timer" to="." method="_on_Timer_timeout"]

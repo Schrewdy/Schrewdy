@@ -1,0 +1,17 @@
+[remap]
+
+importer="texture_atlas"
+type="Texture"
+path="res://.import/Blue256.png-ce7524b837ff866fdfbfe0e7ab7b2def.res"
+group_file="res://atlas/testatlas.png"
+valid=true
+[deps]
+
+
+source_file="res://pngs/Blue256.png"
+dest_files=[ "res://.import/Blue256.png-ce7524b837ff866fdfbfe0e7ab7b2def.res" ]
+
+[params]
+
+atlas_file="res://atlas/testatlas.png"
+import_mode=0

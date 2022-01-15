@@ -1,0 +1,17 @@
+[remap]
+
+importer="texture_atlas"
+type="Texture"
+path="res://.import/Red256.png-afadd0ba77991f243c2d374027711be4.res"
+group_file="res://atlas/testatlas.png"
+valid=true
+[deps]
+
+
+source_file="res://pngs/Red256.png"
+dest_files=[ "res://.import/Red256.png-afadd0ba77991f243c2d374027711be4.res" ]
+
+[params]
+
+atlas_file="res://atlas/testatlas.png"
+import_mode=0
